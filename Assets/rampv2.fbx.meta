@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 312ceff6b0a0e8e42b16cb7bb679a08c
+timeCreated: 1447957030
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ramp_tower:group
+    100002: ramp_tower:pasted__pCube10
+    100004: ramp_tower:pasted__pCube11
+    100006: ramp_tower:pasted__pCube12
+    100008: ramp_tower:pasted__transform10
+    100010: ramp_tower:pasted__transform9
+    100012: ramp_tower:pCube1
+    100014: ramp_tower:pCube10
+    100016: ramp_tower:pCube12
+    100018: ramp_tower:pCube14
+    100020: ramp_tower:pCube15
+    100022: ramp_tower:pCube16
+    100024: ramp_tower:pCube18
+    100026: ramp_tower:pCube2
+    100028: ramp_tower:pCube3
+    100030: ramp_tower:pCube4
+    100032: ramp_tower:pCube5
+    100034: ramp_tower:pCube6
+    100036: ramp_tower:pCube7
+    100038: ramp_tower:pCube8
+    100040: ramp_tower:pCube9
+    100042: ramp_tower:pPyramid1
+    100044: ramp_tower:transform1
+    100046: ramp_tower:transform10
+    100048: ramp_tower:transform11
+    100050: ramp_tower:transform12
+    100052: ramp_tower:transform13
+    100054: ramp_tower:transform14
+    100056: ramp_tower:transform15
+    100058: ramp_tower:transform16
+    100060: ramp_tower:transform2
+    100062: ramp_tower:transform3
+    100064: ramp_tower:transform4
+    100066: ramp_tower:transform5
+    100068: ramp_tower:transform6
+    100070: ramp_tower:transform7
+    100072: ramp_tower:transform8
+    100074: ramp_tower:transform9
+    100076: //RootNode
+    400000: ramp_tower:group
+    400002: ramp_tower:pasted__pCube10
+    400004: ramp_tower:pasted__pCube11
+    400006: ramp_tower:pasted__pCube12
+    400008: ramp_tower:pasted__transform10
+    400010: ramp_tower:pasted__transform9
+    400012: ramp_tower:pCube1
+    400014: ramp_tower:pCube10
+    400016: ramp_tower:pCube12
+    400018: ramp_tower:pCube14
+    400020: ramp_tower:pCube15
+    400022: ramp_tower:pCube16
+    400024: ramp_tower:pCube18
+    400026: ramp_tower:pCube2
+    400028: ramp_tower:pCube3
+    400030: ramp_tower:pCube4
+    400032: ramp_tower:pCube5
+    400034: ramp_tower:pCube6
+    400036: ramp_tower:pCube7
+    400038: ramp_tower:pCube8
+    400040: ramp_tower:pCube9
+    400042: ramp_tower:pPyramid1
+    400044: ramp_tower:transform1
+    400046: ramp_tower:transform10
+    400048: ramp_tower:transform11
+    400050: ramp_tower:transform12
+    400052: ramp_tower:transform13
+    400054: ramp_tower:transform14
+    400056: ramp_tower:transform15
+    400058: ramp_tower:transform16
+    400060: ramp_tower:transform2
+    400062: ramp_tower:transform3
+    400064: ramp_tower:transform4
+    400066: ramp_tower:transform5
+    400068: ramp_tower:transform6
+    400070: ramp_tower:transform7
+    400072: ramp_tower:transform8
+    400074: ramp_tower:transform9
+    400076: //RootNode
+    2300000: ramp_tower:pCube18
+    3300000: ramp_tower:pCube18
+    4300000: ramp_tower:pCube18
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
